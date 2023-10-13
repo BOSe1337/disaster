@@ -25,4 +25,22 @@
 - Напишите Bash-скрипт, который будет проверять доступность порта данного веб-сервера и существование файла index.html в root-директории данного веб-сервера.
 - Настройте Keepalived так, чтобы он запускал данный скрипт каждые 3 секунды и переносил виртуальный IP на другой сервер, если bash-скрипт завершался с кодом, отличным от нуля (то есть порт веб-сервера был недоступен или отсутствовал index.html). Используйте для этого секцию vrrp_script
 
+![alt text](https://github.com/BOSe1337/disaster/blob/main/4.jpg)
 
+![alt text](https://github.com/BOSe1337/disaster/blob/main/5.jpg)
+
+![alt text](https://github.com/BOSe1337/disaster/blob/main/6.jpg)
+
+![alt text](https://github.com/BOSe1337/disaster/blob/main/7.jpg)
+
+![alt text](https://github.com/BOSe1337/disaster/blob/main/8.jpg)
+
+![alt text](https://github.com/BOSe1337/disaster/blob/main/9.jpg)
+
+![alt text](https://github.com/BOSe1337/disaster/blob/main/10.jpg)
+
+![alt text](https://github.com/BOSe1337/disaster/blob/main/11.jpg)
+
+![alt text](https://github.com/BOSe1337/disaster/blob/main/12.jpg)
+
+![alt text](https://github.com/BOSe1337/disaster/blob/main/13.jpg)
